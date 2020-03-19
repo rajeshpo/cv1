@@ -1,0 +1,129 @@
+
+ body{margin: 0;
+ text-align: center;
+font-family: 'Lobster', cursive;
+
+color:#66BFBE;
+
+      }
+
+    p{
+      color:#A9DFBF ;
+      font-size:20px;
+    }
+h1{
+  color:#66BFBF;
+   font-family: 'Lobster','Baloo Chettan 2', cursive;
+   margin:50px auto 0 auto;
+   font-size:5.625rem;
+
+}
+h3{
+    color:#55BFBE;
+  font-family: 'Lobster', cursive;
+  font-size:20px;
+  width:50%;
+  margin:50px auto;
+}
+.My-Skills{
+  text-decoration: underline;
+  padding: 10px auto;
+
+}
+h2{
+  color: #D2B4DE ;
+  font-family: 'Lobster', cursive;
+  font-size:20px;
+  margin:10px auto;
+}
+.top-container{
+  background-color:#d7fffd;
+  position:relative;
+  padding-top:100px;
+
+              }
+.middle-container{
+  margin: 100px auto;
+
+}
+.hed{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom:300px;
+  left:200px;
+
+}
+.top-cloud{
+  position: absolute;
+  right:100px;
+  top:80px;
+
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.size{
+  width:10%;
+}
+.wrap-1{
+  width:22%;
+  float: left;
+  padding-right: 25px;
+
+}
+.wrap-2{
+  width:22%;
+  float:right;
+  padding-left: 30px;
+
+}
+hr{
+
+  border: dotted #D6DBDF 6px  ;
+  border-bottom: none;
+  margin:70px auto;
+  width:5%;
+ border-spacing: 10px;
+}
+.myButton {
+	box-shadow: -6px 0px 0px -10px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #50baa0 100%);
+	background-color:#7892c2;
+	border-radius:28px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:21px;
+	font-weight:bold;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #50baa0 5%, #7892c2 100%);
+	background-color:#50baa0;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+  background-color: #A3E4D7;
+  padding: 10px 0px 16px 0px;
+}
+a{
+  margin:10px 20px;
+  color: #7892c2 ;
+}
+.co9{
+  color: #50baa0;
+  margin:20px 10px;
+  font-size:0.9rem;
+}
